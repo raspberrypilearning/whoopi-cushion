@@ -3,11 +3,10 @@
 In the bad old days before TV and computers, the most popular family entertainment was the whoopee cushion, a tooty balloon made from an unwashed pig’s bladder. This was inflated and hidden under grandad’s chair cushion—when he sat down it “PARPED!” loudly, making him to jump into the air and his false teeth fly out. It was the best thing ever (especially when the dog caught the teeth and ran about wearing them and grinning). This project brings the whoopee cushion up to date: no bladder; no need to blow it up; and you can add whatever noises you want!
 
 ## Making the WhoopPi cushion1. Cut a circle from the cradboard to fit the center of the “eating” side of each paper plate. 
-1. Tape or stick squares of foil on the carboard. These are your contacts, when they touch they will make a circuit.1. Then, using some copper tape, connect the foil to the edge of the plate. 1. Chop the sponge up into cuboid chunks and glue them around the foil on one of the plates— this will stop the foil squares touching each other until someone sits on the plate. It should look something like this:
-	![](images/whoopi-cushion.jpg)
-1. Put the two plates together so that foil squares are on the inside and facing each other and offset them so the copper tape sections are not touching. 1. You now have a “cushion” made of two plates.
-
-
+1. Tape or stick squares of foil on the carboard. These are your contacts, when they touch they will make a circuit.1. Then, using some copper tape, connect the foil to the edge of the plate. 1. Chop the sponge up into cuboid chunks and glue them around the foil on one of the plates, this will stop the foil squares touching each other until someone sits on the plate. It should look something like this:
+	![](images/whoopi-cushion.jpg)
+1. Put the two plates together so that foil is on the inside and facing each other. Offset the paper plates so the copper tape sections are not touching. 1. You now have a “cushion” made of two plates. You can either tape the playes together or use bulldog or paper clips so that you can test that your cushion works correctly and easily debug any hardware problems later.
+
 ## Connect the WhoopPi cushion to the Pi
 
 1. Plug one header lead (it doesn’t matter which) onto a ground (GND) pin on the Pi:
@@ -20,19 +19,21 @@ In the bad old days before TV and computers, the most popular family entertainme
 
 	![](images/pi-gpio2-connection.png)
 
-1. Clip a crocodile clip cable to one of the paper plates copp[er tape sections.
+1. Clip a crocodile clip cable to one of the paper plates copper tape sections.
 
 1. Then connect the other end of the crocodile clip cable to the the male pin of one of the connected jumper wires. 
 
+	![](images/croc-jumper.JPG)
+
 1. Repeat these last two steps to connect the other plate to your Raspberry Pi.
 
-Your setup should look something like this:
+	Your setup should look something like this:
 
-	![](images/)
+	![](images/whoopi-config.JPG)
 	
 
 ## Test the sound
-That’s the hardware complete, now for the software! We are going to use Python—don’t worry if you’ve not used it before, just follow the instructions and you will pick it up.You will be using the command line to type stuff in. To do this you will need to open a Terminal window by clicking on the screen-like Terminal icon, three along from the menu button on your desktop:
+That’s the hardware complete, now for the software! We are going to use Python. Don’t worry if you’ve not used it before, just follow the instructions and you will pick it up.You will be using the command line to type stuff in. To do this you will need to open a Terminal window by clicking on the screen-like Terminal icon, three along from the menu button on your desktop:
 1. Connect the speaker to the Raspberry Pi using the sound jack port.1. Create a new folder called whoopee by typing the following command in the terminal and pressing **enter** on the keyboard:	```bash
     mkdir whoopee
     ```1. Next use the following command to enter the folder you have just created:	``` bash
@@ -45,9 +46,7 @@ That’s the hardware complete, now for the software! We are going to use Python
     ```
     	You should hear it from the speakers or headphones connected to your Pi. If you can’t hear anything, make sure that your speakers are connected correctly. If this still doesn’t work you'll need to change your audio configuration. 
 	To switch audio to the headphone jack return to the terminal window and type the following command:
-	```bash
-	amixer cset numid=3 1 
-	```
+	```bash	amixer cset numid=3 1 	```
 1. If your Raspberry Pi is connected to the internet you could search for some suitable trumping sounds. They need to be in ‘wav’ format to work. Alternatively you can [download our example sounds here]().## Write a program in Python
 1.	To write your Python program you will need to open the Python programming environment IDLE3 from the command line. To do this type `sudo idle3 &` and press **enter** on the keyboard.1.	Once Python 3 (IDLE3) has opened, click on **File** and **New Window**. This will open a blank file. 1. Click on **File** and **Save As** and name the file `whoopee.py`1. Type the following code into your file:	```python	import os	import random	from time import sleep	from gpiozero import Button	```	This part of the code pulls in all the libraries that you are going to use to write your program. 1. Then, you'll need to use the Button class in your code, and to tell it that the button is on pin 2. To do this, write the following code in your new file:
 	```python	button = Button(2)	```
@@ -66,4 +65,5 @@ That’s the hardware complete, now for the software! We are going to use Python
         sleep(2)	```
 1. Save the file by clicking on **File** and **Save**.
 1. Test that your code works by clicking on **Run** and **Run Module**. Use your hand to push the top plate of your WhoopPi cushion down to make a connection between the tin foil and you should hear a fun sound. If it does not work first time, do not worry. Check your code through. Have you typed out your code exactly as you see it here?
-## Setting it up1. Carefully place your whoopee cushion where your victim will sit on it (obviously!), but not under a really heavy cushion where it will squash it straight away. 1. The tricky bit is setting up the Pi so that it can’t be seen—remember, you’ll need a plug socket unless you are using a battery for your Pi.1. Hide it, run the program and wait. 	*Hint: Whistle tunelessly and look around at the ceiling. This will make you look innocent and attract potential victims.*## What next?- Use other noises/tunes/samples. They need to be in ‘wav’ format.- Record your own voice. How about recording your own voice shouting, “Help! You’re sitting on me!”- Record your parents when they are telling you off and put the WhooPi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse. Especially if you record it and put it in YouTube.
+## Setting it up1. Carefully place your whoopee cushion where your victim will sit on it (obviously!), but not under a really heavy cushion where it will squash it straight away. 1. The tricky bit is setting up the Pi so that it can’t be seen—remember, you’ll need a plug socket unless you are using a battery for your Pi.1. Hide it, run the program and wait. 	*Hint: Whistle tunelessly and look around at the ceiling. This will make you look innocent and attract potential victims.*## What next?- Record your own voice shouting, “Help! You’re sitting on me!”- Record your parents when they are telling you off and put the WhooPi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse. Especially if you record it and put it in YouTube.
+- Learn to make a [parent detecor](https://www.raspberrypi.org/learning/parent-detector/) for your room. 

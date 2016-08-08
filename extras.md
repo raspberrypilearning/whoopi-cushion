@@ -5,3 +5,6 @@ You'll also need:
 - Aluminium Foil
 - Glue
 - Scissors
+- Sponge 
+- Bulldog or paper clips
+- Sticky tape
