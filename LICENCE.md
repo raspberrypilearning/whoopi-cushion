@@ -1,10 +1,4 @@
-# Make a Whoopi Cushion
-
-![](cover.png)
-
-In this resource you will make a Raspberry Pi powered whoopee cushion to play pranks on your friends, family or teachers! 
-
-## Licence
+# Licence
 
 Unless otherwise specified, everything in this repository is covered by the following licence:
 
