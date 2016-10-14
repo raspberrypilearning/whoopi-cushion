@@ -77,7 +77,7 @@ You will be using the command line to type stuff in. To do this you will need to
 	amixer cset numid=3 1 
 	```
 
-1. If your Raspberry Pi is connected to the internet you could search for some suitable trumping sounds. They need to be in ‘wav’ format to work. Alternatively you can [download our example sounds here]().
+1. If your Raspberry Pi is connected to the internet you could search for some suitable trumping sounds. They need to be in ‘wav’ format to work. Alternatively you can [download our example sounds here](http://rpf.io/farts).
 
 ## Write a program in Python
 
