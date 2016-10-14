@@ -81,8 +81,7 @@ You will be using the command line to type stuff in. To do this you will need to
 
 ## Write a program in Python
 
-1.	To write your Python program you will need to open the Python programming environment IDLE3 from the command line. To do this type `sudo idle3 &` and press **enter** on the keyboard.
-1.	Once Python 3 (IDLE3) has opened, click on **File** and **New Window**. This will open a blank file. 
+1. Open Python 3 (IDLE) from the programming menu and click on **File** and **New Window**. This will open a blank file. 
 1. Click on **File** and **Save As** and name the file `whoopee.py`
 1. Type the following code into your file:
 
