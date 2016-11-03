@@ -8,7 +8,7 @@ In the bad old days before TV and computers, the most popular family entertainme
 1. Then, using some copper tape, connect the foil to the edge of the plate. 
 1. Chop the sponge up into cuboid chunks and glue them around the foil on one of the plates, this will stop the foil squares touching each other until someone sits on the plate. It should look something like this:
 
-	![](images/IMG_8753.jpg)
+	![](images/IMG_8753.JPG)
 
 1. Put the two plates together so that foil is on the inside and facing each other. Offset the paper plates so the copper tape sections are not touching. 
 1. You now have a “cushion” made of two plates. You can either tape the playes together or use bulldog or paper clips so that you can test that your cushion works correctly and easily debug any hardware problems later.
