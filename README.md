@@ -2,7 +2,7 @@
 
 ![](cover.png)
 
-In this resource you will make a Raspberry Pi powered whoopee cushion to play pranks on your friends, family or teachers! 
+In this resource you will make a whoopee cushion powered by a Raspberry Pi. You can use it to play pranks on your friends, family, or teachers! 
 
 - [Worksheet](worksheet.md)
 
