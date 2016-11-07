@@ -26,7 +26,7 @@ In the bad old days before TV and computers, the most popular family entertainme
 
 	![](images/pi-gpio2-connection.png)
 
-1. Clip a crocodile clip cable to one of the paper plates copper tape sections.
+1. Clip a crocodile clip cable to one of the paper plates' copper tape sections.
 
 1. Then connect the other end of the crocodile clip cable to the the male pin of one of the connected jumper wires. 
 
@@ -40,8 +40,8 @@ In the bad old days before TV and computers, the most popular family entertainme
 	
 
 ## Test the sound
-That’s the hardware complete, now for the software! We are going to use Python. Don’t worry if you’ve not used it before, just follow the instructions and you will pick it up.
-You will be using the command line to type stuff in. To do this you will need to open a Terminal window by clicking on the screen-like Terminal icon, three along from the menu button on your desktop:
+That’s the hardware complete. Now for the software! We are going to use Python. Don’t worry if you haven't used it before: just follow the instructions and you will pick it up.
+You will be using the command line to enter commands. To do this you will need to open a terminal window by clicking on the screen-like Terminal icon, three along from the menu button on your desktop. 
 
 1. Connect the speaker to the Raspberry Pi using the sound jack port.
 1. Create a new folder called whoopee by typing the following command in the terminal and pressing **enter** on the keyboard:
