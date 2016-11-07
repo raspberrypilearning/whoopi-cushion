@@ -50,7 +50,7 @@ You will be using the command line to enter commands. To do this you will need t
     mkdir whoopee
     ```
 
-1. Next use the following command to enter the folder you have just created:
+1. Next, use the following command to enter the folder you have just created:
 
 	``` bash
     cd whoopee
