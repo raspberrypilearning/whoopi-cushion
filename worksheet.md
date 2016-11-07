@@ -69,9 +69,9 @@ You will be using the command line to enter commands. To do this you will need t
     aplay burp.wav
     ```
     
-	You should hear it from the speakers or headphones connected to your Pi. If you can’t hear anything, make sure that your speakers are connected correctly. If this still doesn’t work you'll need to change your audio configuration. 
+	You should hear it from the speakers or headphones connected to your Pi. If you can’t hear anything, make sure that your speakers are connected correctly. If this still doesn’t work, you'll need to change your audio configuration. 
 
-	To switch audio to the headphone jack return to the terminal window and type the following command:
+	To switch audio to the headphone jack, return to the terminal window and type the following command:
 
 	```bash
 	amixer cset numid=3 1 
@@ -93,7 +93,7 @@ You will be using the command line to enter commands. To do this you will need t
 	```
 	This part of the code pulls in all the libraries that you are going to use to write your program. 
 
-1. Then, you'll need to use the Button class in your code, and to tell it that the button is on pin 2. To do this, write the following code in your new file:
+1. Then, you'll need to use the Button class in your code. You'll have to tell it that the button is on pin 2. To do this, write the following code in your new file:
 
 	```python
 	button = Button(2)
@@ -104,10 +104,10 @@ You will be using the command line to enter commands. To do this you will need t
 	```python
 	trumps = ['silly.wav', 'bean.wav', 'raspb.wav', 'wind.wav']
     ```
-	In Python, square barckets are used to create a list and then each item in the list is separated by a comma. 
+	In Python, square barckets are used to create a list. Each item in the list is separated by a comma. 
 
-1. Once all the setup needed is the code is complete, you can move onto writing the part of the program that will make something happen when the button is pressed. Begin by creating a loop using `while True:`.
-1. Then, add `button.wait_for_press()` inside the loop by indenting by 4 spaces. Each time around the loop, the computer waits for the button to be pressed.
+1. Once all the setup needed in the code is complete, you can move on to writing the part of the program that will make something happen when the button is pressed. Begin by creating a loop using `while True:`.
+1. Then, add `button.wait_for_press()` inside the loop by indenting by four spaces. Each time around the loop, the computer waits for the button to be pressed.
 1. On the next line use the `random.choice` function to select a sound from your list of sounds you created earlier randomly. That selected sound needs to be stored inside another variable which you can call parp! Type `parp = random.choice(trumps)`
 1. The next line will play the sound selected at random using `aplay` which you used earlier to test your sounds. Type `os.system("aplay {0}".format(parp))`
 1. Finally, add `sleep(2)` to pause the program before it starts the loop again. 
