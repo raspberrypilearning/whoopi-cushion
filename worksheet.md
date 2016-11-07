@@ -28,7 +28,7 @@ In the bad old days before TV and computers, the most popular family entertainme
 
 1. Clip a crocodile clip cable to one of the paper plates' copper tape sections.
 
-1. Then connect the other end of the crocodile clip cable to the the male pin of one of the connected jumper wires. 
+1. Then connect the other end of the crocodile clip cable to the male pin of one of the connected jumper wires. 
 
 	![](images/croc-jumper.JPG)
 
@@ -77,7 +77,7 @@ You will be using the command line to enter commands. To do this you will need t
 	amixer cset numid=3 1 
 	```
 
-1. If your Raspberry Pi is connected to the internet you could search for some suitable trumping sounds. They need to be in ‘wav’ format to work. Alternatively you can [download our example sounds here](http://rpf.io/farts).
+1. If your Raspberry Pi is connected to the internet you could search for some suitable trumping sounds. They need to be in ‘wav’ format to work. Alternatively, you can [download our example sounds here](http://rpf.io/farts).
 
 ## Write a program in Python
 
