@@ -10,7 +10,7 @@ In the bad old days before TV and computers, the most popular family entertainme
 
 	![](images/IMG_8753.JPG)
 
-1. Put the two plates together so that foil pieces are on the inside and facing each other. Offset the paper plates so the copper tape sections are not touching. 
+1. Put the two plates together so that the foil pieces are on the inside and facing each other. Offset the paper plates so that the copper tape sections are not touching. 
 1. You now have a “cushion” made of two plates. You can tape the plates together, or you might choose to use bulldog or paper clips so that you can test that your cushion works correctly and easily debug any hardware problems.
 
 
