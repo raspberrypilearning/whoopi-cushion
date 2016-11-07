@@ -1,6 +1,6 @@
 # Make a WhoopPi Cushion
 
-In the bad old days before TV and computers, the most popular family entertainment was the whoopee cushion, a tooty balloon made from an unwashed pig’s bladder. This was inflated and hidden under grandad’s chair cushion—when he sat down it “PARPED!” loudly, making him to jump into the air and his false teeth fly out. It was the best thing ever (especially when the dog caught the teeth and ran about wearing them and grinning). This project brings the whoopee cushion up to date: no bladder; no need to blow it up; and you can add whatever noises you want!
+In the bad old days before TV and computers, the most popular family entertainment was the whoopee cushion, a tooty balloon originally made from a pig’s bladder. The whoopee cushion was inflated and hidden under grandad’s chair cushion. When he sat down, it made a loud "PARP!" noise, causing him to jump into the air and his false teeth to fly out. It was the best thing ever (especially when the dog caught the teeth and ran about wearing them and grinning). This project brings the whoopee cushion up to date: there's no bladder and no need to blow it up. Thanks to the Raspberry Pi, you can also add whatever noises you want!
 
 ## Making the WhoopPi cushion
 1. Cut a circle from the cradboard to fit the center of the “eating” side of each paper plate. 
