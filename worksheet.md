@@ -127,12 +127,11 @@ You will be using the command line to enter commands. To do this you will need t
 
 ## Setting it up
 
-1. Carefully place your whoopee cushion where your victim will sit on it (obviously!), but not under a really heavy cushion where it will squash it straight away. 
-1. The tricky bit is setting up the Pi so that it can’t be seen—remember, you’ll need a plug socket unless you are using a battery for your Pi.
-1. Hide it, run the program and wait. 
-	*Hint: Whistle tunelessly and look around at the ceiling. This will make you look innocent and attract potential victims.*
+1. Carefully place your whoopee cushion in a spot where your victim will sit on it (obviously!), but not under a really heavy cushion where it will be squashed straight away. 
+1. The tricky bit is setting up the Pi so that it can’t be seen: remember, you’ll need a plug socket to connect it to power, unless you are using a battery pack.
+1. Run the program, and wait. Here's a hint: whistle tunelessly and look around at the ceiling. This will make you seem innocent, and will help to attract potential victims.
 
 ## What next?
-- Record your own voice shouting, “Help! You’re sitting on me!”
+- Record your own voice shouting, “Help! You’re sitting on me!”, and add this sound file to your program. 
 - Record your parents when they are telling you off and put the WhooPi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse. Especially if you record it and put it in YouTube.
 - Learn to make a [parent detecor](https://www.raspberrypi.org/learning/parent-detector/) for your room. 
