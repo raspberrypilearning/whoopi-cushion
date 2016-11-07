@@ -4,7 +4,7 @@ In the bad old days before TV and computers, the most popular family entertainme
 
 ## Making the WhoopPi cushion
 1. Cut a circle from the cardboard to fit the centre of the “eating” side of each paper plate. 
-1. Tape or stick squares of foil onto the carboard. These are your contacts: when they touch, they will make a circuit.
+1. Tape or stick squares of foil onto the cardboard. These are your contacts: when they touch, they will make a circuit.
 1. Using some copper tape, connect the foil to the edge of the plate. 
 1. Chop the sponge up into cuboid chunks and glue them around the foil on one of the plates: this will stop the foil squares touching each other until someone sits on the plate. It should look something like this:
 
@@ -41,7 +41,7 @@ In the bad old days before TV and computers, the most popular family entertainme
 
 ## Test the sound
 That’s the hardware complete. Now for the software! We are going to use Python. Don’t worry if you haven't used it before: just follow the instructions and you will pick it up.
-You will be using the command line to enter commands. To do this you will need to open a terminal window by clicking on the screen-like Terminal icon, three along from the menu button on your desktop. 
+You will be using the command line to enter commands. To do this you will need to open a terminal window by clicking on the **terminal** icon: it looks like a computer screen, and is found three icons along from the menu button on your desktop. 
 
 1. Connect the speaker to the Raspberry Pi using the sound jack port.
 1. Create a new folder called whoopee by typing the following command in the terminal and pressing **enter** on the keyboard:
@@ -81,7 +81,7 @@ You will be using the command line to enter commands. To do this you will need t
 
 ## Write a program in Python
 
-1. Open Python 3 (IDLE) from the programming menu and click on **File** and **New Window**. This will open a blank file. 
+1. Open Python 3 (IDLE) from the Programming menu and click on **File** and **New Window**. This will open a blank file. 
 1. Click on **File** and **Save As** and name the file `whoopee.py`
 1. Type the following code into your file:
 
@@ -104,7 +104,7 @@ You will be using the command line to enter commands. To do this you will need t
 	```python
 	trumps = ['silly.wav', 'bean.wav', 'raspb.wav', 'wind.wav']
     ```
-	In Python, square barckets are used to create a list. Each item in the list is separated by a comma. 
+	In Python, square brackets are used to create a list. Each item in the list is separated by a comma. 
 
 1. Once all the setup needed in the code is complete, you can move on to writing the part of the program that will make something happen when the button is pressed. Begin by creating a loop using `while True:`.
 1. Then, add `button.wait_for_press()` inside the loop by indenting by four spaces. Each time around the loop, the computer waits for the button to be pressed.
