@@ -5,7 +5,7 @@ In the bad old days before TV and computers, the most popular family entertainme
 ## Making the WhoopPi cushion
 1. Cut a circle from the cardboard to fit the center of the “eating” side of each paper plate. 
 1. Tape or stick squares of foil onto the carboard. These are your contacts: when they touch, they will make a circuit.
-1. Then, using some copper tape, connect the foil to the edge of the plate. 
+1. Using some copper tape, connect the foil to the edge of the plate. 
 1. Chop the sponge up into cuboid chunks and glue them around the foil on one of the plates: this will stop the foil squares touching each other until someone sits on the plate. It should look something like this:
 
 	![](images/IMG_8753.JPG)
