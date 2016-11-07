@@ -108,10 +108,10 @@ You will be using the command line to enter commands. To do this you will need t
 
 1. Once all the setup needed in the code is complete, you can move on to writing the part of the program that will make something happen when the button is pressed. Begin by creating a loop using `while True:`.
 1. Then, add `button.wait_for_press()` inside the loop by indenting by four spaces. Each time around the loop, the computer waits for the button to be pressed.
-1. On the next line use the `random.choice` function to select a sound from your list of sounds you created earlier randomly. That selected sound needs to be stored inside another variable which you can call parp! Type `parp = random.choice(trumps)`
-1. The next line will play the sound selected at random using `aplay` which you used earlier to test your sounds. Type `os.system("aplay {0}".format(parp))`
+1. On the next line, use the `random.choice` function to select a sound at random from the list you created earlier. That selected sound needs to be stored inside another variable which you can call parp! Type `parp = random.choice(trumps)`.
+1. The next line will play the sound selected at random using `aplay`, which you used earlier to test your sounds. Type `os.system("aplay {0}".format(parp))`.
 1. Finally, add `sleep(2)` to pause the program before it starts the loop again. 
-1. Your code should look likes this:
+1. Your code should look like this:
  
 	```python
 	while True:
@@ -123,7 +123,7 @@ You will be using the command line to enter commands. To do this you will need t
 
 1. Save the file by clicking on **File** and **Save**.
 
-1. Test that your code works by clicking on **Run** and **Run Module**. Use your hand to push the top plate of your WhoopPi cushion down to make a connection between the tin foil and you should hear a fun sound. If it does not work first time, do not worry. Check your code through. Have you typed out your code exactly as you see it here?
+1. Test that your code works by clicking on **Run** and **Run Module**. Use your hand to push the top plate of your WhoopPi cushion down to make a connection between the tinfoil sheets and you should hear a fun sound. If it does not work first time, do not worry. Check your code through. Have you typed your code out **exactly** as you see it here?
 
 ## Setting it up
 
