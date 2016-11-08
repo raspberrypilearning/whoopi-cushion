@@ -44,7 +44,7 @@ That’s the hardware complete. Now for the software! We are going to use Python
 You will be using the command line to enter commands. To do this you will need to open a terminal window by clicking on the **terminal** icon: it looks like a computer screen, and is found three icons along from the menu button on your desktop. 
 
 1. Connect the speaker to the Raspberry Pi using the sound jack port.
-1. Create a new folder called whoopee by typing the following command in the terminal and pressing **enter** on the keyboard:
+1. Create a new folder called `whoopee` by typing the following command in the terminal and pressing **enter** on the keyboard:
 
 	```bash
     mkdir whoopee
