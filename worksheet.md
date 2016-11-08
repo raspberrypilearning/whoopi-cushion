@@ -1,8 +1,8 @@
-# Make a WhoopPi Cushion
+# Make a Whoop-Pi Cushion
 
 In the bad old days before TV and computers, the most popular form of family entertainment was the whoopee cushion, a tooty balloon originally made from a pig’s bladder. The whoopee cushion would be inflated and hidden under grandad’s chair cushion. When he sat down, it would make a loud "PARP!" noise, causing him to jump into the air and making his false teeth fly out. It was the best thing ever (especially when the dog caught the teeth and ran about wearing them and grinning). This project brings the whoopee cushion up to date: there's no bladder and no need to blow it up. Thanks to the Raspberry Pi, you can also add whatever noises you want!
 
-## Making the WhoopPi cushion
+## Making the Whoop-Pi cushion
 1. Cut a circle from the cardboard to fit the centre of the “eating” side of each paper plate. 
 1. Tape or stick squares of foil onto the cardboard. These are your contacts: when they touch, they will complete a circuit.
 1. Using some copper tape, connect the foil to the edge of the plate. 
@@ -14,7 +14,7 @@ In the bad old days before TV and computers, the most popular form of family ent
 1. You now have a “cushion” made of two plates. You can tape the plates together, or you might choose to use bulldog or paper clips so that you can test that your cushion works correctly and easily debug any hardware problems.
 
 
-## Connect the WhoopPi cushion to the Pi
+## Connect the Whoop-Pi cushion to the Pi
 
 1. Plug one header lead (it doesn’t matter which) onto a ground (GND) pin on the Pi:
 
@@ -133,5 +133,5 @@ You will be using the command line to enter commands. To do this you will need t
 
 ## What next?
 - Record your own voice shouting, “Help! You’re sitting on me!”, and add this sound file to your program. 
-- Record your parents when they are telling you off and put the WhooPi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse, especially if you record the scene and put it on YouTube.
+- Record your parents when they are telling you off and put the WhoopPi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse, especially if you record the scene and put it on YouTube.
 - Learn to make a [parent detector](https://www.raspberrypi.org/learning/parent-detector/) for your room. 
