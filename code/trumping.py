@@ -6,11 +6,9 @@ from gpiozero import Button
 button = Button(2)
 
 trumps = [
-    'silly.wav',
-    'bean.wav',
-    'raspb.wav',
-    'wind.wav'
-    ]
+    'ben-fart.wav',
+    'ca-fart.wav',
+    'marc-fart.wav']
 
 while True:
     button.wait_for_press()
