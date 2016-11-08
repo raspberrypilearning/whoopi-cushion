@@ -1,8 +1,8 @@
-# Make a Whoop-Pi Cushion
+# Make a Whoopi Cushion
 
 In the bad old days before TV and computers, the most popular form of family entertainment was the whoopee cushion, a tooty balloon originally made from a pig’s bladder. The whoopee cushion would be inflated and hidden under grandad’s chair cushion. When he sat down, it would make a loud "PARP!" noise, causing him to jump into the air and making his false teeth fly out. It was the best thing ever (especially when the dog caught the teeth and ran about wearing them and grinning). This project brings the whoopee cushion up to date: there's no bladder and no need to blow it up. Thanks to the Raspberry Pi, you can also add whatever noises you want!
 
-## Making the Whoop-Pi cushion
+## Making the Whoopi cushion
 1. Cut a circle from the cardboard to fit the centre of the “eating” side of each paper plate. 
 1. Tape or stick squares of foil onto the cardboard. These are your contacts: when they touch, they will complete a circuit.
 1. Using some copper tape, connect the foil to the edge of the plate. 
@@ -14,7 +14,7 @@ In the bad old days before TV and computers, the most popular form of family ent
 1. You now have a “cushion” made of two plates. You can tape the plates together, or you might choose to use bulldog or paper clips so that you can test that your cushion works correctly and easily debug any hardware problems.
 
 
-## Connect the Whoop-Pi cushion to the Pi
+## Connect the Whoopi cushion to the Pi
 
 1. Plug one header lead (it doesn’t matter which) onto a ground (GND) pin on the Pi:
 
@@ -123,7 +123,7 @@ You will be using the command line to enter commands. To do this you will need t
 
 1. Save the file by clicking on **File** and **Save**.
 
-1. Test that your code works by clicking on **Run** and **Run Module**. Use your hand to push the top plate of your Whoop-Pi cushion down to make a connection between the tinfoil sheets and you should hear a fun sound. If it does not work first time, do not worry. Check your code through. Have you typed your code out **exactly** as you see it here?
+1. Test that your code works by clicking on **Run** and **Run Module**. Use your hand to push the top plate of your Whoopi cushion down to make a connection between the tinfoil sheets and you should hear a fun sound. If it does not work first time, do not worry. Check your code through. Have you typed your code out **exactly** as you see it here?
 
 ## Setting it up
 
@@ -133,5 +133,5 @@ You will be using the command line to enter commands. To do this you will need t
 
 ## What next?
 - Record your own voice shouting, “Help! You’re sitting on me!”, and add this sound file to your program. 
-- Record your parents when they are telling you off and put the Whoop-Pi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse, especially if you record the scene and put it on YouTube.
+- Record your parents when they are telling you off and put the Whoopi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse, especially if you record the scene and put it on YouTube.
 - Learn to make a [parent detector](https://www.raspberrypi.org/learning/parent-detector/) for your room. 
