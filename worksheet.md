@@ -102,7 +102,7 @@ You will be using the command line to enter commands. To do this you will need t
 1. Now create a list of all your sound effects and store then inside a variable that you can call later on in your code:
 
 	```python
-	trumps = ['silly.wav', 'bean.wav', 'raspb.wav', 'wind.wav']
+	trumps = ['ben-fart.wav', 'ca-fart.wav', 'marc-fart.wav']
     ```
 	In Python, square brackets are used to create a list. Each item in the list is separated by a comma. 
 
