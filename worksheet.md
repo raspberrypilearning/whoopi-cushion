@@ -123,7 +123,7 @@ You will be using the command line to enter commands. To do this you will need t
 
 1. Save the file by clicking on **File** and **Save**.
 
-1. Test that your code works by clicking on **Run** and **Run Module**. Use your hand to push the top plate of your WhoopPi cushion down to make a connection between the tinfoil sheets and you should hear a fun sound. If it does not work first time, do not worry. Check your code through. Have you typed your code out **exactly** as you see it here?
+1. Test that your code works by clicking on **Run** and **Run Module**. Use your hand to push the top plate of your Whoop-Pi cushion down to make a connection between the tinfoil sheets and you should hear a fun sound. If it does not work first time, do not worry. Check your code through. Have you typed your code out **exactly** as you see it here?
 
 ## Setting it up
 
@@ -133,5 +133,5 @@ You will be using the command line to enter commands. To do this you will need t
 
 ## What next?
 - Record your own voice shouting, “Help! You’re sitting on me!”, and add this sound file to your program. 
-- Record your parents when they are telling you off and put the WhoopPi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse, especially if you record the scene and put it on YouTube.
+- Record your parents when they are telling you off and put the Whoop-Pi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse, especially if you record the scene and put it on YouTube.
 - Learn to make a [parent detector](https://www.raspberrypi.org/learning/parent-detector/) for your room. 
