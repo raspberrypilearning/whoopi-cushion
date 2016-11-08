@@ -1,4 +1,4 @@
-# Make a WhoopPi Cushion
+# Make a Whoop-Pi Cushion
 
 ![](cover.png)
 
