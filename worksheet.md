@@ -8,7 +8,7 @@ In the bad old days before TV and computers, the most popular form of family ent
 1. Using some copper tape, connect the foil to the edge of the plate. 
 1. Chop the sponge up into cuboid chunks and glue them around the foil on one of the plates: this will stop the foil squares touching each other until someone sits on the plate. It should look something like this:
 
-	![](images/IMG_8753.JPG)
+	![](images/Whoopi-Cushion_Diagram_1.png)
 
 1. Put the two plates together so that the foil pieces are on the inside and facing each other. Offset the paper plates so that the copper tape sections are not touching. 
 1. You now have a “cushion” made of two plates. You can tape the plates together, or you might choose to use bulldog or paper clips so that you can test that your cushion works correctly and easily debug any hardware problems.
@@ -30,13 +30,13 @@ In the bad old days before TV and computers, the most popular form of family ent
 
 1. Then connect the other end of the crocodile clip cable to the male pin of one of the connected jumper wires. 
 
-	![](images/croc-jumper.JPG)
+	![](images/Whoopi-Cushion_Diagram_2.png)
 
 1. Repeat these last two steps to connect the other plate to your Raspberry Pi.
 
 	Your setup should look something like this:
 
-	![](images/whoopi-config.JPG)
+	![](images/Whoopi-Cushion_Diagram_3.png)
 	
 
 ## Test the sound
