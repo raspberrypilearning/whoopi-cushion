@@ -131,7 +131,7 @@ You will be using the command line to enter commands. To do this you will need t
 1. The tricky bit is setting up the Pi so that it can’t be seen: remember, you’ll need a plug socket to connect it to power, unless you are using a battery pack.
 1. Run the program, and wait. Here's a hint: whistle tunelessly and look around at the ceiling. This will make you seem innocent, and will help to attract potential victims.
 
-## What next?
+## What's next?
 - Record your own voice shouting, “Help! You’re sitting on me!”, and add this sound file to your program. 
 - Record your parents when they are telling you off and put the Whoopi cushion under their pillow in bed with the new sample. Note: This may lead to loss of pocket money or worse, especially if you record the scene and put it on YouTube.
 - Learn to make a [parent detector](https://www.raspberrypi.org/learning/parent-detector/) for your room. 
