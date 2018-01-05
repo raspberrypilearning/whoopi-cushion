@@ -1,4 +1,4 @@
-## Step 3: Test the sound
+## Test the sound
 That’s the hardware complete. Now for the software! We are going to use Python. Don’t worry if you haven't used it before: just follow the instructions and you will pick it up.
 You will be using the command line to enter commands. To do this you will need to open a terminal window by clicking on the **terminal** icon: it looks like a computer screen, and is found three icons along from the menu button on your desktop.
 
