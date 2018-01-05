@@ -1,4 +1,4 @@
-## Step 1: Making the Whoopi cushion
+## Making the whoopee cushion
 
 1. Cut a circle from the cardboard to fit the centre of the “eating” side of each paper plate. 
 1. Tape or stick squares of foil onto the cardboard. These are your contacts: when they touch, they will complete a circuit.
