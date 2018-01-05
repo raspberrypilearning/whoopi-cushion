@@ -1,7 +1,7 @@
-title: Whoopi Cushion
+title: Whoopi cushion
 hero_image: images/cover.png
-subtitle: Make a Whoopi Cushion
-description: Make a whoopee cushion powered by a Raspberry Pi to prank your pals.
+subtitle: Make a whoopee cushion with a Raspberry Pi
+description: Make a whoopee cushion powered by a Raspberry Pi to prank your pals
 original_url: https://www.raspberrypi.org/learning/whoopi-cushion/
 theme: turquoise
 listed: true
@@ -11,10 +11,10 @@ interests: 'jokes/pranks, music/sound'
 steps:
   - title: Introduction
   - title: What you will need
-  - title: "Step 1: Making the Whoopi cushion"
-  - title: "Step 2: Connect the Whoopi cushion to the Pi"
-  - title: "Step 3: Test the sound"
-  - title: "Step 4: Write a program in Python"
-  - title: "Step 5: Setting it up"
+  - title: Making the whoopee cushion
+  - title: Connect the whoopee cushion to the Pi
+  - title: Test the sound
+  - title: Write a program in Python
+  - title: Setting it up
   - title: What next?
     duration: 60

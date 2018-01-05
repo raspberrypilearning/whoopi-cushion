@@ -1,4 +1,4 @@
-## Step 2: Connect the Whoopi cushion to the Pi
+## Connect the whoopee cushion to the Pi
 
 1. Plug one header lead (it doesn’t matter which) onto a ground (GND) pin on the Pi:
 
