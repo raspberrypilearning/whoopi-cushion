@@ -7,6 +7,7 @@ theme: turquoise
 listed: true
 ingredient: false
 technologies: 'python'
+curriculum: creator, design-1, programming-1, phys-comp-1, manufacture-1, community-0
 interests: 'jokes/pranks, music/sound'
 steps:
   - title: Introduction
