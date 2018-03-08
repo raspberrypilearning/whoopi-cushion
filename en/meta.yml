@@ -4,6 +4,7 @@ subtitle: Make a whoopee cushion with a Raspberry Pi
 description: Make a whoopee cushion powered by a Raspberry Pi to prank your pals
 original_url: https://www.raspberrypi.org/learning/whoopi-cushion/
 theme: turquoise
+duration: 3
 listed: true
 ingredient: false
 technologies: 'python'
