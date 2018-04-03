@@ -7,16 +7,21 @@ theme: turquoise
 duration: 3
 listed: true
 ingredient: false
-technologies: 'python'
-curriculum: creator, design-1, programming-1, phys-comp-1, manufacture-1, community-0
-interests: 'jokes/pranks, music/sound'
-steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Making the whoopee cushion
-  - title: Connect the whoopee cushion to the Pi
-  - title: Test the sound
-  - title: Write a program in Python
-  - title: Setting it up
-  - title: What next?
-    duration: 60
+technologies: python, raspberry-pi, electronic-components
+curriculum: 1, design-1, programming-1, phys-comp-1, manufacture-1, community-0
+interests: humour
+hardware: raspberry-pi, electronic-components
+software: python
+site_areas: projects
+version: 4
+last_tested: 2017-01-01
+steps: 
+- title: Introduction
+- title: What you will need
+- title: Making the whoopee cushion
+- title: Connect the whoopee cushion to the Pi
+- title: Test the sound
+- title: Write a program in Python
+- title: Setting it up
+- title: What next?
+duration: 60
