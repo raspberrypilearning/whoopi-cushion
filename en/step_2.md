@@ -22,3 +22,4 @@ You'll also need:
 - Sponge 
 - Bulldog or paper clips
 - Sticky tape
+- Copper tape
