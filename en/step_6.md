@@ -1,7 +1,7 @@
 ## Write a program in Python
 
-1. Open Python 3 (IDLE) from the Programming menu and click on **File** and **New Window**. This will open a blank file.
-1. Click on **File** and **Save As** and name the file `whoopee.py`.
+1. Open mu from the Programming menu.
+1. Click on **Save** and name the file `whoopee.py`.
 1. Type the following code into your file:
 
    ``` python
@@ -42,6 +42,6 @@
      sleep(2)
    ```
 
-1. Save the file by clicking on **File** and **Save**.
+1. Save the file by clicking on **Save**.
 
-1. Test that your code works by clicking on **Run** and **Run Module**. Use your hand to push the top plate of your Whoopi cushion down to make a connection between the tinfoil sheets and you should hear a fun sound. If it does not work first time, do not worry. Check your code through. Have you typed your code out **exactly** as you see it here?
+1. Test that your code works by clicking on **Run**. Use your hand to push the top plate of your Whoopi cushion down to make a connection between the tinfoil sheets and you should hear a fun sound. If it does not work first time, do not worry. Check your code through. Have you typed your code out **exactly** as you see it here?
