@@ -2,7 +2,7 @@
 
 ### Hardware
 
-|2x Crocodile clip cables | 2x Male-to-female jumper leads | 1x Speakers |
+|2x Crocodile clip cables | 2x pin-to-socket jumper leads | 1x Speakers |
 |:--------:|:-------:|:--------:|
 |   [![croc clips](images/crocodile-clips.png)](https://www.raspberrypi.org/learning/whoopi-cushion/components/crocodile-clips/)  |[![jumper leads](images/jumper-male-to-female.png)](https://www.raspberrypi.org/learning/whoopi-cushion/components/jumper-male-to-female/)  |[![speakers](images/speaker.png)](https://www.raspberrypi.org/learning/whoopi-cushion/components/speaker/)  |
 

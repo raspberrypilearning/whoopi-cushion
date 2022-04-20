@@ -12,7 +12,7 @@
 
 1. Clip a crocodile clip cable to one of the paper plates' copper tape sections.
 
-1. Then connect the other end of the crocodile clip cable to the male pin of one of the connected jumper wires. 
+1. Then connect the other end of the crocodile clip cable to the pin of one of the connected jumper wires. 
 
 	![](images/Whoopi-Cushion_Diagram_2.png)
 
