@@ -19,11 +19,13 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: What you will need
-  completion: engaged
 - title: Making the whoopee cushion
 - title: Connect the whoopee cushion to the Pi
+  completion:
+  - engaged
 - title: Test the sound
 - title: Write a program in Python
-  completion: internal
+  completion:
+  - internal
 - title: Setting it up
 - title: What next?
