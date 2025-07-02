@@ -28,6 +28,5 @@ steps:
   completion:
   - internal
 - title: Setting it up
-- title: What next?
   completion:
   - external
